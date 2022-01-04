@@ -1,0 +1,16 @@
+.divone {
+  height: 200px;
+  width: 200px;
+  margin-left: 50px;
+  background-color: red;
+  color: white;
+}
+
+
+.divtwo{
+  height: 300px;
+  width: 500px;
+  float: right;
+  margin-right: 100px;
+  background-color: blue;
+}

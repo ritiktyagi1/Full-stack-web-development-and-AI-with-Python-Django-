@@ -1,0 +1,26 @@
+body{
+  background-color: #2a6099;
+
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+img{
+  width: 100px;
+  padding: 30px;
+}
+.imgDiv {
+  background-color: #a84c4d;
+  border: solid 1px;
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
+
+#copyright {
+  background-color: #757571;
+  position: absolute;
+  bottom: 50px;
+}
