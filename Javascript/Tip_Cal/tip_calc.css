@@ -1,0 +1,14 @@
+.box {
+  text-align: center;
+  position: relative;
+  top: 40px;
+  background-color: #689097;
+  border-radius: 40px;
+  padding: 25px;
+
+}
+
+body {
+  background-color: #4d59b2;
+  font-family: monospace;
+}
